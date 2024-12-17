@@ -1,6 +1,7 @@
 # Fake News Detection Project
 
 This project aims to classify news articles as *true* or *fake* using both classical machine learning models and a Recurrent Neural Network (RNN) with LSTM.
+Our project was developed collaboratively in Kaggle notebooks by two teammates. We merged our individual codes into a single .py file and uploaded it for submission/commit.
 
 ## Table of Contents
 1. [Introduction](#introduction)
