@@ -11,7 +11,8 @@ This project aims to classify news articles as *true* or *fake* using both class
 The goal of this project is to build a system capable of detecting fake news articles. The project leverages both classical machine learning algorithms and deep learning techniques to achieve robust classification.
 
 ## Dataset
-The dataset used in this project consists of **40,000** news articles: **20,000 true news** and **20,000 fake news**. The data was processed using Natural Language Processing (NLP) techniques, including vectorization.
+The dataset used in this project consists of **40,000** news articles: **20,000 true news** and **20,000 fake news**. The data was processed using Natural Language Processing (NLP) techniques, including vectorization. Here in this link, you can reach the dataset that we used in this project. 
+https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection
 
 ## Models Used
 The following models were used in this project:
